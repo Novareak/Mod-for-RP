@@ -1,13 +1,14 @@
 [
 	{
-		"name": "T-55A",
+		"name": "T-55AC",
 		"unitType": "Armor",
-		"uniqueTo": "Russia",
-		"movement": 4,
-		"strength": 200,
+		"uniqueTo": "Республика Индо-Китай",
+		"replaces": "Modern Tank",
+		"movement": 5,
+		"strength": 300,
 		"rangedStrength": 150,
-		"range": 4,
-		"cost": 10,
+		"range": 5,
+		"cost": 800,
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
 		"attackSound": "tank_shoot"

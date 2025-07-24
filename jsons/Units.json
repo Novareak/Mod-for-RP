@@ -3,7 +3,6 @@
 		"name": "T-55AC",
 		"unitType": "Armor",
 		"uniqueTo": "Республика Индо-Китай",
-		"replaces": "Modern Tank",
 		"movement": 2,
 		"strength": 300,
 		"rangedStrength": 150,
